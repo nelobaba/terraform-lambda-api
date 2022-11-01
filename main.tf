@@ -1,3 +1,4 @@
+// Be sure to grant full access for S3 for the given user with the credentials
 terraform {
   required_providers {
     aws = {
